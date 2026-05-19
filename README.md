@@ -4,7 +4,7 @@
 <br>🎮 Making small but valuable projects in my free time 
 <br>🌱 Currently learning algorithms & object-oriented programming in C++ / Java  
 <br>⚡ Interested in software engineering
-<br><br>## Currently Working On
+## Currently Working On
 <br>- Task Manager written in C++ and Qt framework for GUI<br>- Algorithms & Data Structures in C++<br>
 
 
