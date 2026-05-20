@@ -26,12 +26,39 @@
 <p align="center"> <img src="https://skillicons.dev/icons?i=cpp,qt,java,python,julia,git" /> </p>
 
 ## Check out these cool projects
-📌 Task Manager
-C++ & Qt
-Desktop application for organizing tasks and improving productivity.
-🧬 Darwin World
-Simulation project inspired by evolution and survival mechanics.
+<table align="center">
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/vmalinovska/cpp-task-manager">
+<img 
+src="https://raw.githubusercontent.com/TWOJ_LOGIN/projekt1/main/demo.png"
+width="320"
+style="border-radius:10px;"
+>
 
+<h3>Task Manager</h3>
+<p>C++ & Qt</p>
+
+<p>Task manager (to-do list) that helps you organise your tasks. Sorts them by deadline.</p>
+</a>
+</td>
+
+<td align="center" width="50%">
+<a href="https://github.com/vmalinovska/Darwin-world">
+<img 
+src="https://raw.githubusercontent.com/TWOJ_LOGIN/projekt2/main/demo.png"
+width="320"
+style="border-radius:10px;"
+>
+
+<h3>Darwin World</h3>
+<p >Java & JavaFX</p>
+
+<p>Simulation inspired by the Charles Darwin's theory of natural selection. Fully configurable parameters related to the map, animals, and simulation settings.</p>
+</a>
+</td>
+</tr>
+</table>
 
 ## GitHub Stats
 <div align="center">
