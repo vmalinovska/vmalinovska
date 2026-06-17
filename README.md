@@ -1,6 +1,6 @@
 # Hi, I'm Veronika ♡
 
-`Computer Science student at AGH Univercity`
+`Computer Science student at AGH University`
 
 🐚 love creating useful projects
 <br>💻 enjoy working with Java / C++
